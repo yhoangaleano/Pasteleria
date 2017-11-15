@@ -1,0 +1,6 @@
+c:\users\senapedregal\documents\visual studio 2015\Projects\Pasteleria\Pasteleria\bin\Debug\Pasteleria.exe.config
+c:\users\senapedregal\documents\visual studio 2015\Projects\Pasteleria\Pasteleria\bin\Debug\Pasteleria.exe
+c:\users\senapedregal\documents\visual studio 2015\Projects\Pasteleria\Pasteleria\bin\Debug\Pasteleria.pdb
+c:\users\senapedregal\documents\visual studio 2015\Projects\Pasteleria\Pasteleria\obj\Debug\Pasteleria.csprojResolveAssemblyReference.cache
+c:\users\senapedregal\documents\visual studio 2015\Projects\Pasteleria\Pasteleria\obj\Debug\Pasteleria.exe
+c:\users\senapedregal\documents\visual studio 2015\Projects\Pasteleria\Pasteleria\obj\Debug\Pasteleria.pdb
